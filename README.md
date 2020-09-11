@@ -4,7 +4,7 @@ LOTFP weapons, armors, items and spells - Open Game License
 
 V.1.0.0
 
-Add Weapons list (Melee and misile)
+Add Weapons list (Melee and missile)
 
 Add Armor list
 
