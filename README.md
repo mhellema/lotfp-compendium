@@ -2,9 +2,11 @@
 
 LOTFP weapons, armors, items and spells - Open Game License
 
-V.1.0.0
+Lamentations of the flame princess is a trademark of James Edward Raggi IV.
 
-Added Weapons list (melee and missile)
+Buy the full rules and art LOTFP [PDF](https://www.drivethrurpg.com/product/117262/LotFP-Rules-%26-Magic-Full-Version?filters=0_0_0_0&manufacturers_id=2795)
 
-Added Armor list
+The icons used are free to use - https://game-icons.net/
+
+Contact for bugs or suggestions: phillgamboa@gmail.com
 
