@@ -3,7 +3,7 @@
 	"title": "Lamentations of the Flame Princess - OGL Compendium",
 	"description": "LOTFP weapons, armors, items and spells",
 	"author": "Phillipe Gambôa",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.6",
 	"packs": [{
@@ -20,6 +20,13 @@
 			"entity": "Item",
 			"module": "lotfpcompendium"
 		},
+                {
+			"name": "items",
+			"label": "Items list",
+			"path": "packs/items.db",
+			"entity": "Item",
+			"module": "lotfpcompendium"
+                },
 		{
 			"name": "cleric-spells",
 			"label": "Cleric Spells list",
