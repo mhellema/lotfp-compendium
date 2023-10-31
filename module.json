@@ -20,6 +20,7 @@
 			"system": "lotfp-new",
 			"path": "packs/weapons.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		},
 		{
@@ -28,6 +29,7 @@
 			"system": "lotfp-new",
 			"path": "packs/armors.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		},
                 {
@@ -36,6 +38,7 @@
 			"system": "lotfp-new",
 			"path": "packs/items.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
                 },
 		{
@@ -44,6 +47,7 @@
 			"system": "lotfp-new",
 			"path": "packs/cleric-spells.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
                 },        
                 {
@@ -52,6 +56,7 @@
 			"system": "lotfp-new",
 			"path": "packs/magic-user-spells.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		}
 	],
