@@ -2,7 +2,6 @@
     "id": "lotfp-new-compendium",
     "title": "Lamentations Of The Flame Princess - Compendium",
     "description": "Lamentations of the flame princess system, a fork based on OSE module.",
-	"type": "module",
     "authors": [
         {
             "name": "mhellema"
@@ -14,6 +13,7 @@
         "verified": "11"
     },
 	"minimumCoreVersion": "10",
+	"type": "module",
 	"packs": [{
 			"name": "weapon",
 			"label": "Weapon list",
