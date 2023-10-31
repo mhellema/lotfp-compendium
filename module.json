@@ -2,6 +2,7 @@
     "id": "lotfp-new-compendium",
     "title": "Lamentations Of The Flame Princess - Compendium",
     "description": "Lamentations of the flame princess system, a fork based on OSE module.",
+	"type": "module",
     "authors": [
         {
             "name": "mhellema"
