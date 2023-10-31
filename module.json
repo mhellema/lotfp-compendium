@@ -18,7 +18,7 @@
 			"name": "weapon",
 			"label": "Weapon list",
 			"system": "lotfp-new",
-			"path": "packs/weapons.db",
+			"path": "./packs/weapons.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
@@ -27,7 +27,7 @@
 			"name": "armor",
 			"label": "Armor list",
 			"system": "lotfp-new",
-			"path": "packs/armors.db",
+			"path": "./packs/armors.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
@@ -36,7 +36,7 @@
 			"name": "items",
 			"label": "Items list",
 			"system": "lotfp-new",
-			"path": "packs/items.db",
+			"path": "./packs/items.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
@@ -45,7 +45,7 @@
 			"name": "cleric-spells",
 			"label": "Cleric Spells list",
 			"system": "lotfp-new",
-			"path": "packs/cleric-spells.db",
+			"path": "./packs/cleric-spells.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
@@ -54,7 +54,7 @@
 			"name": "magic-user-spells",
 			"label": "Magic-user Spells list",
 			"system": "lotfp-new",
-			"path": "packs/magic-user-spells.db",
+			"path": "./packs/magic-user-spells.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
