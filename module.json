@@ -1,11 +1,17 @@
 {
-	"name": "lotfpcompendium",
-	"title": "Lamentations of the Flame Princess - OGL Compendium",
-	"description": "LOTFP weapons, armors, items and spells",
-	"author": "Phillipe Gambôa",
-	"version": "1.1.4",
-	"minimumCoreVersion": "0.8.6",
-	"compatibleCoreVersion": "0.8.8",
+    "id": "lotfp-new-compendium",
+    "title": "Lamentations Of The Flame Princess - Compendium",
+    "description": "Lamentations of the flame princess system, a fork based on OSE module.",
+    "authors": [
+        {
+            "name": "mhellema"
+        }
+    ],
+    "version": "1.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
 	"packs": [{
 			"name": "weapon",
 			"label": "Weapon list",
