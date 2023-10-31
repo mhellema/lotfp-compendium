@@ -60,6 +60,12 @@
 			"module": "lotfp-new-compendium"
 		}
 	],
+	  "relationships.requires": [
+    {
+      "id": "lotfp-new",
+      "manifest": "https://raw.githubusercontent.com/mhellema/lotfp-new/main/system.json",
+      "type": "system"
+    }
 	"manifest": "https://github.com/mhellema/lotfp-eq-spells/raw/main/system.json",
     	"download": "https://github.com/mhellema/lotfp-eq-spells/archive/refs/tags/games.zip"
 }
