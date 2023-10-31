@@ -12,6 +12,7 @@
         "minimum": "10",
         "verified": "11"
     },
+	"minimumCoreVersion": "10",
 	"packs": [{
 			"name": "weapon",
 			"label": "Weapon list",
